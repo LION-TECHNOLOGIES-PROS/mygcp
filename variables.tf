@@ -19,3 +19,6 @@ variable "project-a-322719" {
 }
 
 #this create a vpc in the automatic mode
+
+  #git config --global user.email "info@liontechpros.com"
+  #git config --global user.name "Lion Tech Pros"
